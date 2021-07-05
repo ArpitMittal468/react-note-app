@@ -1,0 +1,79 @@
+.myHeader {
+    background-color: #ff1053;
+    font-size: 2rem;
+    padding: 2%;
+    text-align: center;
+    border-bottom: 0.5rem solid;
+    border-color: #4b1d3f;
+    color: white;
+    margin-bottom: 20px;
+}
+
+
+.card {
+    margin-bottom: 20px;
+    background-color: #8cff98;
+    width: 80%;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 100;
+    color: rgb(66, 66, 66);
+    box-shadow: 5px 10px #aaaaaa;
+}
+
+.card p {
+    margin-top: 10px;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 200;
+}
+
+.card input {
+    border-radius: inherit;
+    border: 0px;
+    padding-left: 5px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.save {
+    background-color: #40bcd8;
+    color: white;
+    border: 0;
+    height: 35px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.delete {
+    font-size:small;
+    font-family: monospace;
+    background-color: #f30b3d;
+    color: white;
+    border: 0;
+    width: 20px;
+    height: 20px;
+    /* padding: 10px; */
+    border-radius: 50%;
+}
+
+
+
+.card button:hover {
+    background-color: #000000;
+}
+
+input {
+    height: 30px;
+    width: 98%;
+}
+
+body {
+
+    background-color: #f6efee;
+}
+
+* {
+    /* padding: 0; */
+    margin: auto;
+    font-family: 'Bowlby One SC', cursive;
+    letter-spacing: 2px;
+}
